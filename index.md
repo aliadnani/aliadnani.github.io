@@ -9,7 +9,7 @@ Take a look at my latest projects:
   
 [Analyzing Facebook Chat Data][fb-data]
 
-<img src="assets\fbmessage.png"  width="350">
+<img src="assets\fbmessage.PNG"  width="350">
 
 
 [Generating Lo-fi Looping Videos][lofi] // WIP 
