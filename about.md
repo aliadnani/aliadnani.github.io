@@ -11,18 +11,17 @@ My main languages are: Python, JavaScript (Node.js), and a bit of C# but if you 
 
 A bit more about me personally, I am born Indonesian but was raised in Hong Kong since I was three and have been living quite peacefully on the remote Lantau Island. Besides tech, I enjoy cooking, photography, and playing the piano. 
 
-<img src="./assets/3963-22.jpg"  width="400">
+<img src="../assets/3963-22.jpg"  width="400">
 
 
 If you want to get in touch for anything (i.e. software, cooking, piano), you can find me through [email][em] or [LinkedIn][li].
 
 [<< Back][back]
 
-[resume]: ./assets/ali-adnan_cv.pdf
+[resume]: ../assets/ali-adnan_cv.pdf
 [fb-data]: https://github.com/aliadnani/fb_message_analysis
 [lofi]: ./404.html
-[bg]: ./about.md
 [gh]: https://github.com/aliadnani
 [em]: mailto:ali.adnani@hotmail.com
 [li]: https://www.linkedin.com/in/ali-adnan-b89303160/
-[back]: ./index.html
+[back]: ../

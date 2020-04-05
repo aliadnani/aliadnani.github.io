@@ -7,7 +7,7 @@ Hello! I'm an undergraduate student at PolyU. I am interested in software develo
 
 
 Take a look at my latest projects:  
-[Analyzing Facebook Chat Data][fb-data] // More or Less Done
+[Analyzing Facebook Chat Data][fb-data] // Done
 
 <img src="assets\date_msgs.svg"  height="200">
 <img src="assets\fbmessage.PNG"  width="350">
@@ -24,6 +24,6 @@ You can read more about my [background][bg] or take a look at [my resume][resume
 [resume]: ./assets/ali-adnan_cv.pdf
 [fb-data]: https://github.com/aliadnani/fb_message_analysis
 [lofi]: https://github.com/aliadnani/lofi-background-generation
-[bg]: ./about.html
+[bg]: ./about/
 [em]: mailto:ali.adnani@hotmail.com
 [li]: https://www.linkedin.com/in/ali-adnan-b89303160/

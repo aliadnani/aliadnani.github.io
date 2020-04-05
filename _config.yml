@@ -5,6 +5,7 @@ description: > # this means to ignore newlines until "show_exerpts:"
   Hello! I'm an undergraduate student at PolyU that's really interested in data! I've done data engineering and analytics in the past and am learning statistical methods and machine learning to transition into data science as well!
 show_excerpts: true # set to true to show excerpts on the homepage
 remote_theme: thelehhman/plainwhite-jekyll
+permalink: /:title/
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
