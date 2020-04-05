@@ -7,7 +7,7 @@ Hello! I'm an undergraduate student at PolyU. I am interested in software develo
 
 
 Take a look at my latest projects:  
-[Analyzing Facebook Chat Data][fb-data] // Done
+[Analyzing Facebook Chat Data][fb-data] 
 
 <img src="assets\date_msgs.svg"  height="200">
 <img src="assets\fbmessage.PNG"  width="350">
