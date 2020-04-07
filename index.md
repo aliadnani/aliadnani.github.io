@@ -7,6 +7,15 @@ Hello! I'm an undergraduate student at PolyU. I am interested in software develo
 
 
 Take a look at my latest projects:  
+[Color Palette Generation With K-Means Clustering][kmeans] 
+
+<!-- <img src="assets\date_msgs.svg"  height="200"> -->
+<img src="assets\DSC_4439.jpg"  height="260">
+<img src="assets\colorpalette.png"  height="260">
+<img src="assets\overall_pixel_plot.PNG"  height="260">
+<img src="assets\kmeans_rotate.PNG"  height="260">
+
+
 [Analyzing Facebook Chat Data][fb-data] 
 
 <img src="assets\date_msgs.svg"  height="200">
@@ -27,3 +36,4 @@ You can read more about my [background][bg] or take a look at [my resume][resume
 [bg]: ./about/
 [em]: mailto:ali.adnani@hotmail.com
 [li]: https://www.linkedin.com/in/ali-adnan-b89303160/
+[kmeans]:https://github.com/aliadnani/kmeans-color-palette-visualization
