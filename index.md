@@ -27,7 +27,7 @@ You can read more about my [background][bg] or take a look at [my resume][resume
 <img src="assets\genLoop.gif"  width="350">
 <img src="assets\genLoop2.gif"  width="350">
 
-[DIY MIDI Controller][WIP] // WIP 
+[DIY MIDI Controller][WIP] 
 
 <img src="assets\midi\midi ctrl.png"  height="260">
 <img src="assets\midi\WhatsApp Video 2020-04-14 at 2.02.11 PM_1.gif"  height="260">
