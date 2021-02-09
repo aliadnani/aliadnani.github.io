@@ -10,12 +10,13 @@ You can read more about my [background][bg] or take a look at [my resume][resume
 **Take a look at my latest projects:**  
 
 [Curve Fitting Algorithm for Dense Point Clouds][center-line-fitting]
-<img src="assets\2020-11-10-11-17-08 (1).png"  height="200">
-<img src="assets\2020-11-10-11-17-08.png"  height="200">
+
+<img src="assets\2020-11-10-11-17-08 (1).png"  height="250">
+<img src="assets\2020-11-10-11-17-08.png"  height="250">
 
 [Robotic Welding Human Interaction: Tracking/Gesture Recognition][robot-welding]
 
-<img src="assets\demo.gif"  height="270">
+<img src="assets\demo.gif"  height="310">
 
 [Analyzing Facebook Chat Data][fb-data] 
 
