@@ -7,7 +7,11 @@ Hello! I'm an undergraduate student at PolyU. I am interested in software develo
 
 You can read more about my [background][bg] or take a look at [my resume][resume]. If you want to get in touch, you can find me through [email][em] or [LinkedIn][li] :)
 
-**Take a look at my latest projects:**  
+**Take a look at my latest projects:** 
+
+[Yell "Okay Google, Open Aqua" To Ring Your Phone So You can Find It Around the House][aqua] // VERY WIP
+
+<img src="assets\Screenshot_20210216-174811.jpg"  height="350">
 
 [Curve Fitting Algorithm for Dense Point Clouds][center-line-fitting]
 
@@ -43,6 +47,7 @@ You can read more about my [background][bg] or take a look at [my resume][resume
 <img src="assets\midi\WhatsApp Video 2020-04-14 at 2.02.11 PM_1.gif"  height="260">
 <img src="assets\midi\Capture.PNG"  height="260">
 
+[aqua]: https://github.com/aliadnani/aqua
 [center-line-fitting]: https://github.com/aliadnani/3D-Point-Cloud-Curve-Extraction
 [robot-welding]: https://github.com/aliadnani/robotic-welding-hri
 [resume]: ./assets/ali-adnan_cv.pdf
